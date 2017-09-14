@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\97a28c9fe216530e2b42535c4ec24399051cd7bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_792e85eec8df809c50747016573a4826c2ea048c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_90836063d6b3e85cf6cc07bd27ee757f1b7af595\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\b4ed42901547c52d8f0f52edcfec50aba878d495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_061d07f35a4de568f3a99d336e33de58fcb4de84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\91405dd1115405292bf24208d5a5cd188c8bb408\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_e5c5b12577809c42aafa5fc02ed0dde9bae0846c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\74a1701754d21fc931337cfa952c2b9e1a08dafe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_c7d776dc11259b8f4a4d74ed669c46be69a53b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\243d6e4ae83813fd35ceb81de0652bdde685e25a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_54b3da6f82c3421551453e674a67eba7f449cb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\c7477627e65a7a0fe7b69a13ee176bff769411f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_915e84dd695e0b0e44b24ddaf9890de7a2c544e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8744ea9c84f0e23b2f701948d5a9feb0798da85">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ee772f041ad3941c8f6b7acc8a35fb4b3244722\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\e6fcec0a2bfbc467df1bdb4e77a76532c98c2dd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0be2331107b99f72200fc94573faf9410082124">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_150ea36853cd72104eafa1a4100a38fc2ad75fd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\libs\gdirectionsapiutils_gps4030500.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e76650df41c715bc17510f41ab71e38ec59a4aae">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdirectionsapiutils_gps4030500_5ed1d155f72e3834fd186316ea93196f4971b716\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_6f71d93bf03a218d7a32be2f15f774bd1135ca2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\libs\gdirectionsapiutils_gps4030500.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e76650df41c715bc17510f41ab71e38ec59a4aae">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\gdirectionsapiutils_gps4030500_5ed1d155f72e3834fd186316ea93196f4971b716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\b2ef23cfc20957464b2e1b4b7d9dc1ddf880b46a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_b23328ad9071255ee51a7550c0138241ac07509e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\65a9c5ee5c62693bfe35954902b1ec52db09700a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_b9859771ba31107365d2e86a3d7c5d7a58aeb826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.android\build-cache\953456c1e8ea49d0c50f8041332a3d4bf748b7c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\classes_018feee7a97e0dee4c10f5eb6c0417d805c5d237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabby\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\Gabby\Documents\AndroidStudio\TestAppTracking\app\build\intermediates\pre-dexed\debug\httpcore-4.3.2_fc823192ebf42269ea9c9ff401f5d8f534919985.jar" />
+    </item>
+
+</items>
