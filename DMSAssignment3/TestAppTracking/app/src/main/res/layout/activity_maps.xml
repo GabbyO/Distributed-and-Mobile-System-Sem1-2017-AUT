@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/walkButton"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="WALK" />
+
+        <Button
+            android:id="@+id/driveButton"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="DRIVE" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/durdisTextViewMAP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Duration: \nDistance:"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.65"
+        map:cameraBearing="112.5"
+        map:cameraTilt="30"
+        map:cameraZoom="25"
+        tools:context="android.dms.aut.ac.nz.testapptracking.MapsActivity" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/addressTextEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="Type address here..."
+            android:inputType="textAutoCorrect|textAutoComplete|textPostalAddress"
+            android:selectAllOnFocus="false"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/enterAddress"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Enter" />
+    </LinearLayout>
+
+</LinearLayout>

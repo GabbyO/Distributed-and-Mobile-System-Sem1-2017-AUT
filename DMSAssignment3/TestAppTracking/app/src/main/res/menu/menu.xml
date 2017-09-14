@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/SAT"
+        android:title="SATELLITE" />
+    <item android:id="@+id/HYB"
+        android:title="HYBRID" />
+
+    <item android:id="@+id/NOR"
+        android:title="NORMAL" />
+    <item android:id="@+id/TER"
+        android:title="TERRIAN" />
+
+    <item
+        android:id="@+id/SHOWTRAFFIC"
+        android:orderInCategory="100"
+        android:title="Show Traffic"/>
+
+</menu>
